@@ -1,0 +1,12 @@
+Food Name,Price,ID,Image Path,Status
+Vegan Pizza,13.33,9853,veggiePizza.jpg,TRUE
+Grilled Salmon,15.75,1133,grilledSalmon.jpg,TRUE
+Special Dish 89,18.97,7436,foodbowl.jpg,FALSE
+Spaghetti Carbonara,10.5,1834,spaghettiCarbonara.jpg,TRUE
+Chicken Tacos,9.75,9472,chickenTacos.jpg,TRUE
+Tofu Stir Fry,11,3921,tofuStirFry.jpg,TRUE
+Beef Stew,13.45,8276,beefStew.jpg,TRUE
+Blueberry Pancakes,8.5,1523,blueberryPancakes.jpg,TRUE
+Apple Pie,13,9999,applepie.jpg,FALSE
+Cheesecake,7,3341,chessCake.jpg,TRUE
+Ham Burger,11,8871,cheeseburger_1.jpg,TRUE

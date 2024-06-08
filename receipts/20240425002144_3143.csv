@@ -1,0 +1,7 @@
+Item Name,Quantity,Price,Total
+Chicken Tacos,1,$9.75,$9.75
+Tofu Stir Fry,3,$11.00,$33.00
+Subtotal,,$42.75
+Tax,,$2.99
+Total,,$45.74
+,,,Order Status: Pending

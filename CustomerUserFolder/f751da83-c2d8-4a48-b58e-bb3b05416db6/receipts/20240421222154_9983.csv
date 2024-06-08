@@ -1,0 +1,9 @@
+Item Name,Quantity,Price,Total
+Grilled Salmon,1,$15.75,$15.75
+Veggie Pizza,1,$11.11,$11.11
+Beef Stew,1,$13.45,$13.45
+Spaghetti Carbonara,1,$10.50,$10.50
+Subtotal,,$50.81
+Tax,,$3.56
+Total,,$54.37
+,,,Order Status: Pending
